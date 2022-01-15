@@ -9,3 +9,8 @@ Porównanie czasów:
 
 Wnioski:
 Jak widać GPU jest zdecydowanie szybsze(od 0.018858 do 0.026364) przez co na wykresie wygląda to jakby były równe 0.
+
+Tabelka z otrzymanymi wartościami
+
+![image](https://user-images.githubusercontent.com/80594314/149621071-da8a0398-f6ec-47bc-ab5d-ddbb2887a31a.png)
+
